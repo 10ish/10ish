@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning full stack web developement
 - 💞️ I’m looking to collaborate on web applications
 - 📫 How to reach me anandtanish2@gmail.com
+-  My portfolio: 
 
 <!---
 10ish/10ish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
